@@ -1,5 +1,7 @@
 # AkatZumaTool Wiki
 
+作者：[5中生有](https://center.mcmod.cn/60332/) 、AkatZuma、[くじょう-アイ](https://center.mcmod.cn/131109/)
+
 > 一个 Minecraft Forge 模组。
 > A Minecraft Forge mod.
 
