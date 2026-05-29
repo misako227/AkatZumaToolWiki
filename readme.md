@@ -10,7 +10,7 @@
 | 语言 | 入口 |
 |------|------|
 | 🇨🇳 **简体中文** | [中文文档](./zh_cn/zh_cn.md) |
-| 🇺🇸 **English** | [English Docs](./en_us/) |
+| 🇺🇸 **English** | [English Docs](./en_us/en_us.md) |
 
 ---
 
