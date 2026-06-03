@@ -45,7 +45,7 @@
 
 ### <font color=green>| </font> 星弦弓（v0.0.2）
 ---
-<img src="../img/bow1.JPG" width="400"> <img src="../img/bow2.JPG" width="400"> <img src="../img/bow3.JPG" width="400">
+<img src="../img/bow1.JPG" width="400"> <img src="../img/bow2.JPG" width="400"> <img src="../img/bow3.jpg" width="400">
 
  
 
