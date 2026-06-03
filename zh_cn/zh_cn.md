@@ -30,6 +30,8 @@
 
 ### <font color=green>| </font> 彩币
 ---
+<!-- ![image](../img/coin.png)![image](../img/coin2.png) -->
+<img src="../img/coin.jpg" width="400"> <img src="../img/coin2.jpg" width="400">
 
 * 右键使用后扣除耐久度
 * 车万女仆可以使用
@@ -41,7 +43,13 @@
   * 经验修补：参考原版
 
 
+### <font color=green>| </font> 星弦弓（v0.0.2）
+---
+<img src="../img/bow1.jpg" width="400"> <img src="../img/bow2.jpg" width="400"> <img src="../img/bow3.jpg" width="400">
 
+
+
+<br>
 
 ## <font color=green>| </font> 配置文件
 ---
