@@ -16,4 +16,15 @@
 
 ---
 
+<img src="./img/coin.JPG" width="400"> <img src="./img/coin2.JPG" width="400">
+
+<img src="./img/bow2.JPG" width="400"> <img src="./img/bow3.JPG" width="400"> 
+---
+
+## 谢谢您的支持 / Thanks for your support!
+
+✨[ifdian](https://ifdian.net/a/zzZ227)
+
+---
+
 *Wiki 持续建设中... / Wiki is under construction...*
