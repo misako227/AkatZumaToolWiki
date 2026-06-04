@@ -34,6 +34,23 @@
   * **Unbreaking**: Reduces durability consumption.
   * **Mending**: Works as in vanilla Minecraft.
 
+<img src="../img/coin.JPG" width="400"> <img src="../img/coin2.JPG" width="400">
+
+<br>
+
+### <font color=green>| </font> Stellar String Bow (v0.0.2)
+---
+
+* Arrows shot from this bow have **particle trails**.
+* Enchantable:
+  * **Quick Charge**: Reduces charge time by 20% per level.
+  * **Auto-Fire**: Automatically shoots when fully charged.
+  * **Star Judgment**: 5% chance on hit to summon a magic circle dealing AoE damage.
+  * Others: Same as vanilla bow enchantments.
+* Many parameters can be adjusted in the config file.
+
+<img src="../img/bow1.JPG" width="400"> <img src="../img/bow2.JPG" width="400"> <img src="../img/bow3.jpg" width="400">
+
 <br>
 
 ## <font color=green>| </font> Configuration
