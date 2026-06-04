@@ -18,7 +18,7 @@
 
 <img src="./img/coin.JPG" width="400"> <img src="./img/coin2.JPG" width="400">
 
-<img src="./img/bow2.JPG" width="400"> <img src="./img/bow3.JPG" width="400"> 
+<img src="./img/bow2.JPG" width="400"> <img src="./img/bow3.jpg" width="400"> 
 ---
 
 ## 谢谢您的支持 / Thanks for your support!
