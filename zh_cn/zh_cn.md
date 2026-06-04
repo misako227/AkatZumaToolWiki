@@ -31,7 +31,7 @@
 ### <font color=green>| </font> 彩币
 ---
 <!-- ![image](../img/coin.png)![image](../img/coin2.png) -->
-<img src="../img/coin.JPG" width="400"> <img src="../img/coin2.JPG" width="400">
+
 
 * 右键使用后扣除耐久度
 * 车万女仆可以使用
@@ -41,13 +41,22 @@
   * 力量：每级增加25%伤害
   * 耐久：减少耐久度消耗
   * 经验修补：参考原版
+  * 
+<img src="../img/coin.JPG" width="400"> <img src="../img/coin2.JPG" width="400">
 
 
 ### <font color=green>| </font> 星弦弓（v0.0.2）
 ---
-<img src="../img/bow1.JPG" width="400"> <img src="../img/bow2.JPG" width="400"> <img src="../img/bow3.jpg" width="400">
 
- 
+* 射出的箭带有粒子拖尾
+* 可附魔：
+  * 快速装填：每级减少20%蓄力时间
+  * 自动射击：蓄力满自动射出
+  * 星辰裁决：击中后有5%几率召唤法阵造成范围伤害
+  * 其他：参考原版弓
+* 配置文件可以修改很多参数
+
+<img src="../img/bow1.JPG" width="400"> <img src="../img/bow2.JPG" width="400"> <img src="../img/bow3.jpg" width="400">
 
 <br>
 
