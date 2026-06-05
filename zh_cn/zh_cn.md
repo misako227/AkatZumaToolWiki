@@ -45,10 +45,11 @@
 <img src="../img/coin.JPG" width="400"> <img src="../img/coin2.JPG" width="400">
 
 
-### <font color=green>| </font> 星弦弓（v0.0.2）
+### <font color=green>| </font> 魔法弓（v0.0.2）
 ---
 
 * 射出的箭带有粒子拖尾
+* 攻击时有30%概率束缚敌人，使其无法移动
 * 可附魔：
   * 快速装填：每级减少20%蓄力时间
   * 自动射击：蓄力满自动射出

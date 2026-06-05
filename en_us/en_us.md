@@ -38,10 +38,11 @@
 
 <br>
 
-### <font color=green>| </font> Stellar String Bow (v0.0.2)
+### <font color=green>| </font> Magic Bow (v0.0.2)
 ---
 
 * Arrows shot from this bow have **particle trails**.
+* During an attack, there is a 30% chance to immobilize the enemy, rendering them unable to move.
 * Enchantable:
   * **Quick Charge**: Reduces charge time by 20% per level.
   * **Auto-Fire**: Automatically shoots when fully charged.
