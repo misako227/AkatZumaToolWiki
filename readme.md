@@ -17,9 +17,7 @@
 ---
 
 <img src="./img/coin.JPG" width="400"> <img src="./img/coin2.JPG" width="400">
-![image](./img/flysword/1.jpg)
-
-![image](./img/flysword/2.jpg)
+<img src="./img/flysword/1.jpg" width="400"> <img src="./img/flysword/2.jpg" width="400">
  <img src="./img/bow3.jpg" width="400"> 
 ---
 
