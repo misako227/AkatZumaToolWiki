@@ -5,10 +5,24 @@
 ### <font color=green>| </font> Flying Sword
 ---
 
+* Left-click to fire **sword energy**.
+* Press **B** to summon / dismiss **2 flying swords**.
 * Right-click to summon; it automatically attacks monsters within 15 blocks of the player. Every 10 attacks, **1 point of saturation** is consumed.
 * Damage scales with the player's attack power.
 
 ![image](../img/fly.gif)
+
+### <font color=green>| </font> True Flying Sword (v0.0.3)
+---
+
+* Left-click to fire **sword energy**.
+* Right-click and hold to charge and unleash a **Iaido Slash** (consumes 2 saturation).
+* Press **V** to unleash **Dimensional Slash** (consumes 2 saturation).
+* Press **B** to summon / dismiss **5 flying swords** (consumes 2 saturation).
+
+![image](../img/flysword/1.jpg)
+
+![image](../img/flysword/2.jpg)
 
 <br>
 
@@ -42,15 +56,38 @@
 ---
 
 * Arrows shot from this bow have **particle trails**.
-* During an attack, there is a 30% chance to immobilize the enemy, rendering them unable to move.
+* 30% chance to **immobilize** the enemy on hit, rendering them unable to move.
 * Enchantable:
   * **Quick Charge**: Reduces charge time by 20% per level.
   * **Auto-Fire**: Automatically shoots when fully charged.
+  * **Auto-Tracking**: Locks onto an enemy while aiming; the arrow homes in on the locked target when fired.
   * **Star Judgment**: 5% chance on hit to summon a magic circle dealing AoE damage.
   * Others: Same as vanilla bow enchantments.
 * Many parameters can be adjusted in the config file.
 
 <img src="../img/bow1.JPG" width="400"> <img src="../img/bow2.JPG" width="400"> <img src="../img/bow3.jpg" width="400">
+
+<br>
+
+### <font color=green>| </font> Glittering Fruit (v0.0.4)
+---
+
+* Eating grants a **30-second buff**.
+* Buff effects:
+  * Immune to most damage.
+  * Press **Alt** to teleport forward.
+  * Hold **Ctrl** to fly faster.
+  * Afraid of water — entering water **clears the buff**.
+
+<br>
+
+### <font color=green>| </font> Thunder Halberd (v0.0.5)
+---
+
+* Throwing the halberd **summons lightning**.
+* Enchantable:
+  * **Lightning Strike**: Deals continuous damage after throwing.
+  * **Heaven's Thunder**: Hold **V** to summon area lightning.
 
 <br>
 
