@@ -1,0 +1,110 @@
+{
+  "coin_charge_complete": {
+    "subtitle": "subtitles.akatzumatool.coin_charge_complete",
+    "sounds": [
+      {
+        "name": "akatzumatool:coin_charge_complete",
+        "stream": false
+      }
+    ]
+  },
+  "star_judgement_summon": {
+    "subtitle": "subtitles.akatzumatool.star_judgement_summon",
+    "sounds": [
+      {
+        "name": "akatzumatool:star_judgement_summon",
+        "stream": false
+      }
+    ]
+  },
+  "slash": {
+    "subtitle": "subtitles.akatzumatool.slash",
+    "sounds": [
+      {
+        "name": "akatzumatool:slash",
+        "stream": false
+      }
+    ]
+  },
+  "slash_end": {
+    "subtitle": "subtitles.akatzumatool.slash_end",
+    "sounds": [
+      {
+        "name": "akatzumatool:slash_end",
+        "stream": false
+      }
+    ]
+  },
+  "sword_aura": {
+    "subtitle": "subtitles.akatzumatool.sword_aura",
+    "sounds": [
+      {
+        "name": "akatzumatool:sword_aura",
+        "stream": false
+      }
+    ]
+  },
+  "batto_skash": {
+    "subtitle": "subtitles.akatzumatool.batto_skash",
+    "sounds": [
+      {
+        "name": "akatzumatool:batto_skash",
+        "stream": false
+      }
+    ]
+  },
+  "sparkling_1": {
+    "subtitle": "subtitles.akatzumatool.sparkling_1",
+    "sounds": [
+      {
+        "name": "akatzumatool:sparkling_1",
+        "stream": false
+      }
+    ]
+  },
+  "sparkling_2": {
+    "subtitle": "subtitles.akatzumatool.sparkling_2",
+    "sounds": [
+      {
+        "name": "akatzumatool:sparkling_2",
+        "stream": false
+      }
+    ]
+  },
+  "charging_1": {
+    "subtitle": "subtitles.akatzumatool.charging_1",
+    "sounds": [
+      {
+        "name": "akatzumatool:charging_1",
+        "stream": false
+      }
+    ]
+  },
+  "ex_boom_1": {
+    "subtitle": "subtitles.akatzumatool.ex_boom_1",
+    "sounds": [
+      {
+        "name": "akatzumatool:ex_boom_1",
+        "stream": false
+      }
+    ]
+  },
+  "ex": {
+    "subtitle": "subtitles.akatzumatool.ex",
+    "sounds": [
+      {
+        "name": "akatzumatool:ex",
+        "stream": false
+      }
+    ]
+  },
+  "calibur": {
+    "subtitle": "subtitles.akatzumatool.calibur",
+    "sounds": [
+      {
+        "name": "akatzumatool:calibur",
+        "stream": false
+      }
+    ]
+  }
+}

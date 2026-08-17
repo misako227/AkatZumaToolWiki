@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "R R",
+    " R "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "akatzumatool:coin",
+    "count": 1
+  }
+}

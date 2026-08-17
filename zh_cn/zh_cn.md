@@ -18,11 +18,12 @@
 * 右键蓄力释放拔刀斩（扣除2点饱食度）
 * V键释放次元斩（扣除2点饱食度）
 * B键召唤/关闭 5把飞剑（扣除2点饱食度）
+* C键蓄力释放咖喱棒
 
 ![image](../img/flysword/1.jpg)
 
 ![image](../img/flysword/2.jpg)
-
+<img src="../img/flysword/4.jpg" width="400"> <img src="../img/flysword/3.jpg" width="400">
 
 <br>
 

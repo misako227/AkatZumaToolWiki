@@ -17,14 +17,24 @@
 ---
 
 <img src="./img/coin.JPG" width="400"> <img src="./img/coin2.JPG" width="400">
+<img src="./img/flysword/4.jpg" width="400"> <img src="./img/flysword/3.jpg" width="400">
 <img src="./img/flysword/1.jpg" width="400"> <img src="./img/flysword/2.jpg" width="400">
- <img src="./img/bow3.jpg" width="400"> 
+<img src="./img/bow3.jpg" width="400"> 
+---
+
+
+---
+
+### WIKI和建议反馈：[Github](https://github.com/misako227/AkatZumaToolWiki)
+
+
+## License
+
+本项目基于 **GPL-3.0** 协议开源，详见 [LICENSE.txt](LICENSE.txt)。
+
 ---
 
 ## 谢谢您的支持 / Thanks for your support!
 
 ✨[ifdian](https://ifdian.net/a/zzZ227)
 
----
-
-*Wiki 持续建设中... / Wiki is under construction...*

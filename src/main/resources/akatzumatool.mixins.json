@@ -1,0 +1,26 @@
+
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.z227.akatzumatool.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "akatzumatool.refmap.json",
+  "mixins": [
+    "SparklingFruitWebMixin"
+  ],
+  "client": [
+    "EntityRenderDispatcherMixin",
+    "RenderTypeCompositeRenderTypeAccessor",
+    "RenderTypeCompositeStateAccessor",
+    "RenderStateShardEmptyTextureAccessor",
+    "MagicBowMovementMixin",
+    "SparklingFruitPlayerModelMixin",
+    "WindowResizeMixin"
+  ],
+  "server": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

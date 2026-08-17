@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "akatzumatool:coin"
+    },
+    {
+      "item": "minecraft:trident"
+    }
+  ],
+  "result": {
+    "item": "akatzumatool:trident_plus",
+    "count": 1
+  }
+}

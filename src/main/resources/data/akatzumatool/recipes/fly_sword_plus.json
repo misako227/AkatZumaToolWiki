@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GNG",
+    "BNB",
+    "GFG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gold_ingot"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "F": {
+      "item": "akatzumatool:fly_sword"
+    }
+  },
+  "result": {
+    "item": "akatzumatool:fly_sword_plus",
+    "count": 1
+  }
+}

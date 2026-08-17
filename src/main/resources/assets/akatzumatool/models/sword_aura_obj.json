@@ -1,0 +1,11 @@
+{
+  "loader": "forge:obj",
+  "model": "akatzumatool:models/obj/sword1.obj",
+  "automatic_culling": false,
+  "shade_quads": false,
+  "flip_v": false,
+  "emissive_ambient": true,
+  "textures": {
+    "particle": "akatzumatool:atlases/sword1"
+  }
+}

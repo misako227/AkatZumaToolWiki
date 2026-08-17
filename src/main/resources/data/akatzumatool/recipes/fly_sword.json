@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " D ",
+    " P ",
+    " B "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:emerald"
+    },
+    "D": {
+      "item": "minecraft:pink_dye"
+    },
+    "B": {
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "result": {
+    "item": "akatzumatool:fly_sword",
+    "count": 1
+  }
+}
